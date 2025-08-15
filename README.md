@@ -1,4 +1,6 @@
 🧮 Simple Python Calculator
+
+
 💡 Why I made this
 
 Because sometimes you just want a quick, no-fancy, run-and-go calculator — without hunting for an app.
@@ -15,6 +17,8 @@ Shows you the result instantly.
 Keeps running until you decide to exit.
 
 
+
+
 🚀 How to use
 
 Run the script in your terminal.
@@ -24,6 +28,8 @@ Enter first number, second number, and an operation symbol.
 See your result pop up.
 
 Exit when you’re done crunching numbers.
+
+
 
 📸 Example Output
 Enter the first number: 12  
